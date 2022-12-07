@@ -1,28 +1,28 @@
 {
 "AllNum": {
 	"one": {
-		"url": "https://www.jiliasia.com/?pid=taishan",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	},
 	"two": {
-		"url": "https://www.jiliasia.com/?pid=taishan",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	},
 	"three": {
 		"url": "",
 		"isToPage": false
 	},
 	"four": {
-		"url": "https://www.jiliasia.com/?pid=taishan",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	},
 	"five": {
-		"url": "https://www.jiliasia.com/?pid=taishan",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	},
 	"six": {
-		"url": "https://www.jiliasia.com/?pid=taishan",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	}
     }
 }

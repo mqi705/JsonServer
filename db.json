@@ -1,28 +1,54 @@
 {
-"AllNum": {
-	"one": {
-		"url": "",
-		"isToPage": false
-	},
-	"two": {
-		"url": "",
-		"isToPage": false
-	},
-	"three": {
-		"url": "",
-		"isToPage": false
-	},
-	"four": {
-		"url": "",
-		"isToPage": false
-	},
-	"five": {
-		"url": "",
-		"isToPage": false
-	},
-	"six": {
-		"url": "",
-		"isToPage": false
-	}
+  "AA": {
+    "A": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "B": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "C": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "D": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "E": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "F": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "G": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "H": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "I": {
+      "U": "",
+      "isT": false,
+      "isJ": false
+    },
+    "J": {
+      "U": "",
+      "isT": false,
+      "isJ": false
     }
+  }
 }
